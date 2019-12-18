@@ -1,0 +1,50 @@
+/* Pablo Catalina Castelló */
+/* Ultima actualización 18/12/2019, hora: 19:29 */
+body{
+    background-color: #eeeeee;
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 200%;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p{
+    background-color: #cccccc;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+h2{
+    color: red;
+    background-color: #888888;
+    text-transform: initial;
+    font-family: sans-serif;
+}
+
+strong{
+    color: #00896e;
+    font-style: normal;
+    font-weight: normal;
+}
+
+em{
+    color: #0000ff;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h3{
+    color: #8b008b;
+    background-color: #aaaaaa;
+    font-size: 130%;
+}
+
+address{
+    text-align: right;
+    font-style: normal;
+    background-color: white;
+}
